@@ -1,5 +1,4 @@
 // Zeynep Orman
-// 2640639 CNG SUMMER ASSIGNMENT-1
 #include <stdio.h>
 int main() {
     char menu,S0,S1,D,check;
